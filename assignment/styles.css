@@ -1,0 +1,19 @@
+header{background-color: 
+orange;} 
+
+h2{background-color:
+teal;
+text-align:center;}
+
+img{
+padding-left: 150px;
+border-image-outset:"mytruck.jpg" 8px 8px 8px 8px;
+border-color:
+black;}
+
+h3{background-color: 
+tan;
+text-decoration: 
+underline black;
+color:red;
+text-align: center;}
