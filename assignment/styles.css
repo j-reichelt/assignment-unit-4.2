@@ -1,9 +1,21 @@
+
+title{text-align: center;}
+
 header{background-color: 
 orange;} 
 
+
+p{text-align:center;
+position: relative; right: 60px;
+font-family: 'Space Grotesk', sans-serif;}
+
 h2{background-color:
-teal;
-text-align:center;}
+lightgray;
+text-align:center;
+position: relative; left: 300px;
+max-width: 50%;
+border-radius: 10px;
+font-family: 'Space Grotesk', sans-serif;}
 
 img{
 padding-left: 150px;
